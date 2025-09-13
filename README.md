@@ -1,6 +1,6 @@
 # Política de Privacidade da Radar PNCP
 
-Bem-vindo à Radar PNCP, inscrita no CNPJ 00.000.000/0000-00, com sede na Tv. Lago, sn, Salvador, Fazenda Grande do Retiro. Nosso compromisso é com a integridade e a segurança dos dados pessoais dos nossos usuários e clientes.
+Bem-vindo à Radar PNCP, com sede na Tv. Lago, sn, Salvador, Fazenda Grande do Retiro. Nosso compromisso é com a integridade e a segurança dos dados pessoais dos nossos usuários e clientes.
 
 Esta **Política de Privacidade** aplica-se a todas as interações digitais realizadas em nosso site `radarpncp.com.br`, serviços associados, aplicativos móveis e outras plataformas digitais sob nosso controle.
 
